@@ -1,0 +1,139 @@
+.banner {
+    background: cover;
+    padding-top: 9%;
+    width: 100%;
+    height: 480px;
+}
+
+.menu ul li a {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(74, 198, 247);
+    font-size: 20px;
+}
+
+.jarak {
+    padding-top: 12%;
+}
+
+.Tutor h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.Tutor p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+.video h3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.video p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.lingkaran a i {
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 135px;
+    color: #fff;
+    background-color: #0077a7;
+}
+
+.Teman h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.Teman p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+.Teman img {
+    width: 40%;
+}
+
+.icon i {
+    font-weight: 800;
+    font-size: 20px;
+    text-align: center;
+    color: #000000;
+}
+
+.footer {
+    width: 100%;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+}
+
+.footer-section {
+    width: 20%;
+    margin: 0 auto;
+}
+
+.footer-section i {
+    font-size: 25px;
+    text-align: center;
+    color: #000000;
+}
+
+.kontak h3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 35px;
+    margin-bottom: 20px;
+    color: #0a3963;
+    width: 100%;
+    line-height: 50px;
+}
+
+.kontak p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+#copyright {
+    text-align: center;
+    width: 100%;
+    padding: 
+    
+}
+
+.ppt {
+    padding-top: 150px;
+}
+
+.ppt h5 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.ppt p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18x;
+}
+
+.video {
+    padding-top: 150px;
+}
+
+.video2 {
+    padding-top: 100px;
+}
+
+figcaption {
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: #0077a7;
+}
